@@ -1,0 +1,13 @@
+Dynamic AMP::PROG-3283::5
+Javascript::PROG-2283::3
+PHP Scripting::PROG-3328::5
+Networking Fundamentals::PROG-8233::8
+Web Programming::PROG-8323::3
+Database Design::PROG-3328::6
+C++ Software Development::PROG-3329::9
+Business Computing::PROG-9232::6
+EJB Architecture::PROG-3229::7
+iSeries Practicum::PROG-2993::8
+UNIX BASH Shell Scripting::PROG-8923::7
+Oracles PL/SQL::PROG-3982::7
+
